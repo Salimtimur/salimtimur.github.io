@@ -1,0 +1,51 @@
+body{
+    background-color: aqua;
+    padding-left: 30%;
+    padding-right: 30% ;
+    background: url(gh);
+    font-family:Comic Sans MS;
+}
+header {
+    background: url("tyr.png");
+    color:tomato;
+    font-size: 3vw;
+    font-style: italic;
+    padding: 20%;
+    font-family:Comic Sans MS;
+}
+nav{
+    padding: 10px;
+}
+main{
+    background-color: whitesmoke;
+    padding-bottom: 50%;
+}
+footer{
+    background-color: turquoise;
+}
+nav a{
+
+    background-color: aqua;
+    padding: 10px;
+    text-decoration:none;
+    color: brown;
+}   
+nav a:hover{
+    background-color: indigo;
+    text-decoration:none;
+    color: black;
+}               
+section{
+    background: aqua;
+    padding: 3%;
+    margin: 5%;
+    height: 20vh;
+    border-radius: 20%;
+    border-top: 10px inset black;
+    border-bottom-left-radius: 40%
+    ;
+  }
+section img{
+    height:100%;
+
+}                        
